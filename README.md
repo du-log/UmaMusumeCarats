@@ -1,5 +1,5 @@
 # Carat Pack API for Ratios and Greedy Optimizing
-This is a basic API in Python that provides the ratios of each carat pack in the Uma Musume in-game shop and Cygames ID Web Store. The calculations are primarily for the English version of Uma Musume where we simply divide the amount of carats per pack by their dollar value. For the Web Store calculation, there is an additional tax rate we need to factor in to determine the ratio of the packs.
+This is a basic local host API in Python that provides the ratios of each carat pack in the Uma Musume in-game shop and Cygames ID Web Store. The calculations are primarily for the English version of Uma Musume where we simply divide the amount of carats per pack by their dollar value. For the Web Store calculation, there is an additional tax rate we need to factor in to determine the ratio of the packs.
 
 The API also provides endpoints for calculating the most optimal combination of packs that can provide the most amount of carats within a given budget. For the web store, there are two endpoints depending on if the limited packs are available or not. The calculation for the in-game shop optimizer assumes that the player is on Android where, as of February 2026, there is no digital tax applied when purchasing through Google Play. Additional assumption is if the player is located in Georgia, US.
 
