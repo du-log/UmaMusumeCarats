@@ -32,7 +32,7 @@ In-Game Shop:
 - Total Carats: 14,630  
 - Cost: $199.91
 
-Web Store:
+Web Store (7% Tax):
 - 2,750 Carats x 5
 - 231 Carats x 5
 - 66 Carats x 2
@@ -46,3 +46,27 @@ Web Store + Limited (7% Tax):
 - 66 Carats x 2
 - Total Carats: 16,082
 - Cost: $199.99
+#### Budget: $500
+In-Game Shop:
+- 2,500 Carats x 14
+- 1,500 Carats x 1
+- 210 Carats x 1
+- Total Carats: 36,710
+- Cost: $499.84
+
+Web Store (7% Tax):
+- 2,750 Carats x 13
+- 1,650 Carats x 1
+- 231 Carats x 1
+- 66 Carats x 1
+- Total Carats: 37,697
+- Cost: $499.52
+
+Web Store + Limited (7% Tax):
+- 1,650 Carats (Limited) x 2
+- 2,750 Carats x 12
+- 1,650 Carats x 1
+- 231 Carats x 3
+- 66 Carats x 1
+- Total Carats: 38,709
+- Cost: $499.49
