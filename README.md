@@ -18,7 +18,7 @@ Not included is the Daily Carats Pack as the calculations for total carats overa
 - 5,500, $69.99 ($74.89), ~73.44 Carats
 
 ## Greedy-By-Weight
-For the moment, I utilized a greedy algorithm that focuses first on the carat pack with the best ratio. Most, if not all, calculations will end up excluding the packs with 5,000 carats or 5,500 carats due to the cost of the pack. Within the code, the dictionary for the limited web store contains a limit variable as the 1,650 carat and 8,250 carat packs are only sold x amount of times and only restock on special occasions, likely anniversaries and/or holidays. Additional limits are set on the non-limited packs as well, but this can be modified to your liking.
+For the moment, I utilized a greedy algorithm that focuses first on the carat pack with the best ratio. Most, if not all, calculations will end up excluding the packs with 5,000 carats or 5,500 carats due to the cost and ratio of the pack. Within the code, the dictionary for the limited web store contains a limit variable as the 1,650 carat and 8,250 carat packs are only sold x amount of times and only restock on special occasions, likely anniversaries and/or holidays. Additional limits are set on the non-limited packs as well, but this can be modified to your liking.
 
 All endpoints for calculating optimal pack combinations will take in a **budget** float variable. Endpoints for the web store take in a **tax_rate** float variable preset to 0.07, but can be changed if a different value is passed.
 
